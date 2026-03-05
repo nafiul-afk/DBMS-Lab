@@ -31,40 +31,7 @@ A structured hands-on lab course covering relational database design, SQL queryi
 
 ---
 
-## Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/dbms-lab.git
-   cd dbms-lab
-   ```
-
-2. **Set up your database environment**
-   - Install MySQL / PostgreSQL
-   - Start your database server
-   - Create a new database for each lab as instructed
-
-3. **Run lab scripts**
-   ```bash
-   mysql -u root -p < Lab1/setup.sql
-   ```
-
----
-
-## 📌 Notes
-
-- Each lab folder contains SQL scripts and a brief write-up of the tasks.
-- Project labs (Lab 8–11) are group assignments — refer to your team's project folder.
-- The lab exam (Lab 12) covers all topics from Lab 1–7.
-
----
-
-##  Author
-
-> Add your name, student ID, and course details here.
-
----
-
-## 📄 License
+##  License
 
 This repository is for academic purposes only.
